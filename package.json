@@ -1,6 +1,6 @@
 {
  "name": "js-cpu-load",
- "description": "",
+ "description": "measure your CPU load",
  "version": "0.0.1alpha",
  "homepage": "https://github.com/podefr/js-cpu-load",
  "licenses": [{
