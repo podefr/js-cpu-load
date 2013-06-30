@@ -1,0 +1,32 @@
+{
+ "name": "js-cpu-load",
+ "description": "",
+ "version": "0.0.1alpha",
+ "homepage": "https://github.com/podefr/js-cpu-load",
+ "licenses": [{
+  "type":"MIT",
+  "url":"https://raw.github.com/olives/js-cpu-load/master/LICENSE"
+ }],
+ "files": [
+ 	"js-cpu-load.js",
+ 	"LICENSE"
+ ],
+ "author": "Olivier Scherrer <pode.fr@gmail.com>",
+ "dependencies": {
+  },
+ "keywords": ["CPU", "load", "performance", "JavaScript"],
+ "repository": {
+  "type": "git",
+  "url": "git@github.com:olives/js-cpu-load.git"
+ },
+ "bugs": {
+  "url": "https://github.com/olives/js-cpu-load/issues"
+ },
+ "main":"js-cpu-load.js",
+ "engines": {
+ 	"node":">= 0.8.0"
+ },
+ "scripts": {
+ }
+
+}
