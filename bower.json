@@ -1,5 +1,5 @@
 {
   "name": "js-cpu-load",
   "version": "0.0.1alpha",
-  "main": "bower/js-cpu-load"
+  "main": "browser/js-cpu-load"
 }
